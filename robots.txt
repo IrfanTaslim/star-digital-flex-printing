@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irfantaslim.github.io/star-digital-flex-printing/sitemap.xml
